@@ -19,5 +19,6 @@ public class CloanUserRecord implements Serializable {
     private String operationType;//'操作记录： visit：浏览； apply: 申请','
     private Date createDate;//'创建时间'
 
+    private String ipAddress;//'用户ID'
 
 }
